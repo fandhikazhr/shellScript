@@ -1,4 +1,7 @@
 #!/bin/sh
+while :
+do
+clear
 echo "8888888 8888888b. 88888888888 888     888"
 echo "  888   888   Y88b    888     888     888"
 echo "  888   888    888    888     888     888"
@@ -42,3 +45,4 @@ case "$pilih" in
     mpv http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/watch?v=K9lOPKwo44w
     ;;
 esac
+done
