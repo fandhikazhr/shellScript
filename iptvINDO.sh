@@ -11,7 +11,7 @@ echo "  888   888           888       Y88o88P"
 echo "  888   888           888        Y888P"
 echo "8888888 888           888         Y8P"
 echo "\n"
-echo "Channels : "
+echo "Saluran : "
 echo "1. NET TV"
 echo "2. METRO TV"
 echo "3. CNN Indonesia"
@@ -19,7 +19,7 @@ echo "4. Kompas TV"
 echo "5. Trans7"
 echo "6. Trans TV"
 echo "7. TVOne"
-echo "Pilih Channel : "
+echo "Pilih Saluran : "
 read pilih
 
 case "$pilih" in 
