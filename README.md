@@ -12,3 +12,5 @@ How to exit program ? Press Key `CTRL + C` :)
 # Wallpaper Dynamic for DWM
 
 This script use [feh](https://feh.finalrewind.org/) tool.
+1. Make this script executable `sudo chmod +x wallpaperDynamic.sh`.
+2. Open `.xinitrc` file.
