@@ -14,3 +14,4 @@ How to exit program ? Press Key `CTRL + C` :)
 This script use [feh](https://feh.finalrewind.org/) tool.
 1. Make this script executable `sudo chmod +x wallpaperDynamic.sh`.
 2. Open `.xinitrc` file.
+3. Write on the `.xinitrc` file with `~/myScript/wallpaperDynamic.sh &` (depending on where you put the `wallpaperDynamic.sh` file)
