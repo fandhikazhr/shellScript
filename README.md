@@ -11,4 +11,4 @@ How to exit program ? Press Key `CTRL + C` :)
 
 # Wallpaper Dynamic for DWM
 
-This script use [feh] tools (https://feh.finalrewind.org/)
+This script use [feh](https://feh.finalrewind.org/) tool.
