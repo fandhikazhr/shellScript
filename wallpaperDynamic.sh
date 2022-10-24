@@ -16,6 +16,7 @@ while true; do
   for set in "${wallpaper[@]}"
     do
     :
+    # need "feh" tools
     feh --bg-fill $set
     # interval
     sleep 5s
