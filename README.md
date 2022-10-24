@@ -1,7 +1,7 @@
 # shellScript
 Shell Script 
 
-# iptvINDO.sh
+# [iptvINDO.sh](https://github.com/fandhikazhr/shellScript/blob/main/iptvINDO.sh)
 1. Install mpv player `apt install mpv`.
 2. Go to dir `sheelScript`
 3. Run command `chmod +x iptvINDO.sh`
