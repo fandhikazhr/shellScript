@@ -9,7 +9,7 @@ Shell Script
 
 How to exit program ? Press Key `CTRL + C` :)
 
-# [Wallpaper Dynamic for DWM](https://github.com/fandhikazhr/shellScript/blob/main/wallpaperDynamic.sh)
+# [Wallpaper Dynamic](https://github.com/fandhikazhr/shellScript/blob/main/wallpaperDynamic.sh)
 
 This script use [feh](https://feh.finalrewind.org/) tool.
 1. Make this script executable `sudo chmod +x wallpaperDynamic.sh`.
